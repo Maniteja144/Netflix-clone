@@ -1,1 +1,1 @@
-Creted a netflix clone using html and css
+This project is a clone of the Netflix user interface created using HTML and CSS. The goal is to replicate the design and layout of the Netflix website, providing a similar user experience to the original platform.
